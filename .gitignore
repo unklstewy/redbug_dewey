@@ -28,5 +28,11 @@ go.work.sum
 .env
 
 # Editor/IDE
-# .idea/
-# .vscode/
+ .idea/
+ .vscode/
+
+# Large files
+testdata/
+redbug_dewey/handlers/timeseries_stress_benchmark.db
+redbug_dewey/handlers/timeseries_stress_benchmark.db-shm
+redbug_dewey/handlers/timeseries_stress_benchmark.db-wal
